@@ -30,10 +30,6 @@ Once the contract is deployed, you can interact with it by entering inputs and c
 
 ![image](https://github.com/OlivarezK/DegenToken-Project/assets/72584770/f0ea1b15-5eb7-461f-91e6-e61148f678d9)
 
-For functions that require an address as an input, you can copy one from the samples provided by Remix under the "ACCOUNT" dropdown which can be found in the left-hand sidebar as well:
-
-![image](https://user-images.githubusercontent.com/72584770/234553227-a18b8544-5e0b-48a5-af7a-0c81f2bbbcc4.png)
-
 ## Authors
 
 OlivarezK
