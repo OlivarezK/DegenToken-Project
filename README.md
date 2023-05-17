@@ -22,7 +22,7 @@ Next, create a new file by clicking on the "+" icon in the left-hand sidebar. Sa
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile DgenToken.sol" button.
 
-Once the code is compiled, you can deploy the contract by copying the contract address from the verified contract in snowtrace testnet and paste it to the input box in remix shown below, and click on "At Address" to deploy the contract.
+Once the code is compiled, you can deploy the contract by copying the contract address of the verified contract in snowtrace testnet and paste it to the input box in remix shown below, and click on "At Address" to deploy the contract.
 
 ![image](https://github.com/OlivarezK/DegenToken-Project/assets/72584770/634b11b9-900d-41b7-9de4-acf9c7bc7c30)
 
