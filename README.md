@@ -24,7 +24,7 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by copying the contract address from the verified contract in snowtrace testnet and paste it to the input box in remix shown below, and click on "At Address" to deploy the contract.
 
-![image](https://github.com/OlivarezK/DegenToken-Project/assets/72584770/4c89f852-9183-449a-bf3d-4681a5fab10a)
+![image](https://github.com/OlivarezK/DegenToken-Project/assets/72584770/634b11b9-900d-41b7-9de4-acf9c7bc7c30)
 
 Once the contract is deployed, you can interact with it by entering inputs and calling the variables or functions in the sidebar. You can interact with them by simply clicking the buttons with the variable names or with the "transact" button for functions. It is recommended to click on the dropdown icons to make it easier to enter inputs:
 
